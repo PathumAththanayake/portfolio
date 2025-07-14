@@ -275,7 +275,7 @@ export default function Home() {
             A passionate developer with creative thinking. I love creating sleek designs and the best software out of the box.
           </HeroText>
           <CTAGroup>
-            <CTAButton primary href="/assets/CV.pdf" download>
+            <CTAButton primary href="/assets/Pathum_Aththanayake.pdf" download>
               <FaDownload /> Download CV
             </CTAButton>
             <CTAButton href="#about">About Me</CTAButton>
